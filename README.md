@@ -4,12 +4,18 @@ This is a sample project for the shippable company.
 
 #Basic information.
 
-1.Selenium Webdriver for creating Test Case.
-2.Java Programming for Enhancing Test Case.
-3.TestNG Testing Framework for Generating Reports.
-4. FireBug and Firepath for Inspecting Elements.
-5.Firefox driver for browser testing
-6. Resource https://www.github.com
+ 1.Selenium Webdriver for creating Test Case.
+ 
+ 2.Java Programming for Enhancing Test Case.
+ 
+ 3.TestNG Testing Framework for Generating Reports.
+ 
+ 4. FireBug and Firepath for Inspecting Elements.
+ 
+ 5.Firefox driver for browser testing.
+ 
+ 6. Resource https://www.github.com
+
 
  #How to run the tests from the command line.
  #Command line Execution.
